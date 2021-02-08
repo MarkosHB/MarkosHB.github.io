@@ -1169,6 +1169,7 @@
 		.wrapper.style3 {
 			background-color: #54a8c4;
 			color: #ffffff;
+			padding-top: 6rem;
 		}
 
 		.wrapper.style4 {
@@ -1176,6 +1177,7 @@
 			color: rgb(249 246 241 / 80%);
 			text-align: justify;
 			padding-top: 6rem;
+			
 		}
 
 		.wrapper.style6 {
