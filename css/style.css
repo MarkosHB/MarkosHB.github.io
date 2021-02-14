@@ -1177,14 +1177,13 @@
 			color: rgb(249 246 241 / 80%);
 			text-align: justify;
 			padding-top: 6rem;
-			
+			text-align-last: 30px 20px 10px 20px;
 		}
 
 		.wrapper.style6 {
 			background-color:#b7ceeb;
 			color: #2b2b2b;
 		}
-
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 p {
 				color: #ffffff;
@@ -1343,4 +1342,28 @@
 			color: black;
 			text-decoration: none;
 			cursor: pointer;
+		}
+
+
+
+	/* Srcollbar */
+	
+		/* width */
+		::-webkit-scrollbar {
+			width: 10px;
+		}
+		
+		/* Track */
+		::-webkit-scrollbar-track {
+			background: #e0e0e0;
+		}
+		
+		/* Handle */
+		::-webkit-scrollbar-thumb {
+			background: rgb(150, 147, 147);
+		}
+		
+		/* Handle on hover */
+		::-webkit-scrollbar-thumb:hover {
+			background: rgb(100, 99, 99);
 		}
