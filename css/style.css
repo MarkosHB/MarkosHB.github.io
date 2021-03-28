@@ -12,7 +12,7 @@
 
 	body {
 		background: rgb(233, 226, 226);
-		font-family:sans-serif !important;
+		font-family: Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1181,7 +1181,7 @@
 
 		.wrapper.style4 {
 			background-color: #1a2735;
-			color: rgb(249 246 241 / 80%);
+			color:rgb(233, 226, 226);
 			text-align: justify;
 			padding-top: 6rem;
 			text-align-last: 30px 20px 10px 20px;
