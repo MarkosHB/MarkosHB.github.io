@@ -30,7 +30,7 @@
 	body, input, select, textarea {
 		color: #444;
 		font-family: "Raleway", Helvetica, sans-serif;
-		font-size: 13pt;
+		font-size: 12pt;
 		font-weight: 400;
 		line-height: 1.65em;
 	}
@@ -1184,7 +1184,7 @@
 			text-align: justify;
 			padding-top: 6rem;
 			text-align-last: 30px 20px 10px 20px;
-			font-size: medium;
+			font-size: 11pt;
 		}
 
 		.wrapper.style6 {
